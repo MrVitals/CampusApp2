@@ -7,9 +7,11 @@
     tools:context=".Campus_App.Logic.MainActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/MainLayout_ID"
         android:layout_width="416dp"
         android:layout_height="733dp"
-        tools:layout_editor_absoluteY="-3dp">
+        tools:layout_editor_absoluteX="-3dp"
+        tools:layout_editor_absoluteY="-1dp">
 
         <Button
             android:id="@+id/Chat_Button"

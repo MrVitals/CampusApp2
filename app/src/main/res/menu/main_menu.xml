@@ -2,9 +2,15 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="Room checker" />
-    <item android:title="Empty room finder" />
-    <item android:title="Events" />
+    <item
+        android:id="@+id/RoomCheckerLayout_ID"
+        android:title="Room checker" />
+    <item
+        android:id="@+id/RoomFinderLayout_ID"
+        android:title="Empty room finder" />
+    <item
+        android:id="@+id/EventsLayout_ID"
+        android:title="Events" />
     <item
         android:id="@+id/AddEvent_ID"
         android:title="AddEvent" />
