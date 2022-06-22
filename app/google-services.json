@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958624276763",
+    "project_id": "campusapp-a6eed",
+    "storage_bucket": "campusapp-a6eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958624276763:android:cade1b755668a446d7f3be",
+        "android_client_info": {
+          "package_name": "com.example.campusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958624276763-s158be80kooj4olb2brh44v03l57g1u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf4ze9C2O90cMzfTlLdO8OmhqD2zIW46A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958624276763-s158be80kooj4olb2brh44v03l57g1u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
