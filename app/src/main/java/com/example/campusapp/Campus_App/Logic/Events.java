@@ -11,6 +11,15 @@ import java.util.ArrayList;
 
 public class Events extends AppCompatActivity {
 
+//    ArrayList<AddEvent> allEvents = new ArrayList();
+//
+//
+//
+//    public void addEvents(AddEvent event){
+//        allEvents.add(event);
+//
+//    }
+
 
 
     @Override

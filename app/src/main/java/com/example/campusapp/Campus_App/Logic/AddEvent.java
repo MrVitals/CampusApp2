@@ -3,6 +3,8 @@ package com.example.campusapp.Campus_App.Logic;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 
 import com.example.campusapp.R;
 import com.google.type.Date;
@@ -16,7 +18,15 @@ public class AddEvent extends AppCompatActivity {
     String Rythm;
     Date DatumVon;
     Date DatumBis;
+
     public AddEvent(){
+
+    }
+
+
+    public void addEventsMethod(){
+
+
 
     }
 
@@ -92,6 +102,18 @@ public class AddEvent extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_event);
+        Button submitButton = (Button) findViewById(R.id.submit_ID);
+
+                submitButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+
+
+
+            }
+        });
+
     }
+
+
 }
 
